@@ -1,0 +1,12 @@
+{
+  "name": "maqsam22/claude-code",
+  "description": "👨💻 Accelerate your coding with Claude Code, an agentic tool for your terminal that streamlines tasks, explains code, and supports git workflows.",
+  "accepts": [
+    {
+      "network": "eip155:8453",
+      "asset": "USDC",
+      "address": "YOUR_WALLET_ADDRESS"
+    }
+  ],
+  "resources": []
+}
